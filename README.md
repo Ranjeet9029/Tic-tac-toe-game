@@ -19,7 +19,7 @@ This is a simple and interactive **Tic-Tac-Toe** game built using **HTML**, **CS
 
 ## 📁 Files Included
 
-- `index.html` – Main HTML structure of the game.
+- `Tic-tac.html` – Main HTML structure of the game.
 - `style.css` – Styling and responsive design.
 - `script.js` – Game logic for player turns, win/tie detection, and reset.
 - `README.md` – Project documentation.
